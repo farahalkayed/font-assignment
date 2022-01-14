@@ -1,0 +1,39 @@
+/*
+font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'Inconsolata', monospace;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'Orelega One', cursive;
+font-family: 'Rubik Beastly', cursive;
+ */
+
+h1{
+    font-family: 'Orelega One', cursive;
+    color: lightpink;
+}
+
+h2{font-family: 'Luxurious Roman', cursive;
+    color: lightpink;
+}
+
+.highlight{
+    font-family: 'Orelega One', cursive;
+    font-size: 25pt; 
+    color: linen
+
+}
+
+.bigger {font-size: 30px;
+    font-style: oblique;
+}
+
+.wrapper{
+    width: 70%;
+    margin: 80px auto;
+}
+
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background-color: rgb(77, 21, 21);
+    font-size: 17px;
+    color: linen;
+}
